@@ -1,0 +1,21 @@
+{
+  "name": "scraping",
+  "version": "1.0.0",
+  "description": "first test for SPERLOOS",
+  "author": "Yassin Gourkani",
+  "main": "App.js",
+  "bugs": {
+    "email": "yassingourkani@outlook.com",
+    "url": "https://github.com/yasin6606"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node App.js"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "cheerio": "^1.0.0-rc.10"
+  }
+}
